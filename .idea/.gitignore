@@ -1,3 +1,20 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.apt_generated
+*.class
+target/
+*.iml
+.idea/
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
