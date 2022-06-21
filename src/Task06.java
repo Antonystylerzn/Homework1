@@ -5,6 +5,6 @@ public class Task06 {
 		int s = w * h;
 		int p = 2 * (w + h);
 		System.out.println("Периметр прямоугольника:"+" "+p);
-		System.out.println("Площать прямоугольника:"+" "+s);
+		System.out.println("Площадь прямоугольника:"+" "+s);
 	}
 }
